@@ -154,7 +154,7 @@ FPS = 60
 PAC_EVERY = 10     # Pac-Man moves one cell every 10 frames (6 cells per second)
 GHOST_EVERY = 28  # ghosts move one cell every 28 frames (2 cells per second). Lower = faster ghosts
 DANGER = 2         # Pac-Man switches to FLEE mode when a ghost is this close (Manhattan distance)
-GHOSTS_ON = True      # set to True to turn on ghosts (A*), False to turn them off (Pac-Man only, BFS)
+GHOSTS_ON = False      # set to True to turn on ghosts (A*), False to turn them off (Pac-Man only, BFS)
 
 
 PAC_COLOR = (255, 220, 0)

@@ -25,7 +25,7 @@ Pac-Man's mode is shown at the bottom of the screen, and a red ring appears arou
 
 ```bash
 pip install pygame
-python pacman_ai.py
+python python Pacman.py
 ```
 
 | Key | Action |
